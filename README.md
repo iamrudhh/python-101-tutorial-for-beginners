@@ -6,7 +6,8 @@ Welcome to my Python 101 project! This is a collection of beginner-friendly Pyth
 
 ## 📚 Topics Covered
 
-1. Variables
+1. variables_and_data_types
+2. Numbers
 ---
 
 ## 🚀 How to Use
